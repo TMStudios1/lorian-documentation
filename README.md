@@ -1,6 +1,6 @@
 # Welcome to the Lorian documentation
 
-![banner](img/lorianbanner.png)
+![banner](docs/img/lorianbanner.png)
 
 ## What is Lorian?
 
