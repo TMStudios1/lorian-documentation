@@ -1,5 +1,5 @@
 
-![banner](img/banner.png)
+![banner](img/lorianbanner.png)
 # Welcome to the Lorian documentation! 
 
 ## What is Lorian?
