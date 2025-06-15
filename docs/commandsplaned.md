@@ -1,8 +1,16 @@
 # COMMANDS PLANED
 
-###Fun Commands
+## Ticket Commands
 
+!!! tip
+    The free verison of the bot is limited to 3 Ticket pannels per guild.
 
+| Name | Description | Usage | Required permission |
+| ---- | ----------- | ----- | ------------------- |
+| clear | I'll remove messages matching the specified criteria | \[user\] <amount\> | manage_messages |
+| clearch | I'll clear an entire channel | None | manage_channels |
+
+## Fun Commands (TBD)
 
 | Name | Description | Usage | Required permission |
 | ---- | ----------- | ----- | ------------------- |
@@ -16,7 +24,7 @@
 | nuke | Nuke a given user | <user\> | None |
 | sleep | I'll tell a user to go to sleep | <user\> | None |
 
-###Tag Commands
+## Tag Commands
 
 | Name | Description | Usage | Required permission |
 | ---- | ----------- | ----- | ------------------- |
@@ -28,16 +36,17 @@
 | tag list | List all of you're or someones tags | <tag\> | None |
 | tag raw | Get raw tag info | <tag\> | None |
 
-###Moderation Commands
+## Moderation Commands
 
 | Name | Description | Usage | Required permission |
 | ---- | ----------- | ----- | ------------------- |
 | clear | I'll remove messages matching the specified criteria | \[user\] <amount\> | manage_messages |
 | clearch | I'll clear an entire channel | None | manage_channels |
 
-###Setting commands
+## Setting commands (TBD)
+
 !!! tip
-    Settings commands will not be in the basic version.
+    Settings commands are subject to change
 
 | Name | Description | Usage | Required permission |
 | ---- | ----------- | ----- | ------------------- |
