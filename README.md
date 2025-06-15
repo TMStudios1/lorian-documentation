@@ -8,7 +8,13 @@ Lorian is a multifunction Discord bot system intended to be able to perform vari
 
 ### Stats
 
-No Stats Currenty available..
+![GitHub last commit](https://img.shields.io/github/last-commit/TMStudios1/lorian-documentation)
+
+![GitHub contributors](https://img.shields.io/github/contributors/TMStudios1/lorian-documentation)
+
+[![ci](https://github.com/TMStudios1/lorian-documentation/actions/workflows/ci.yml/badge.svg)](https://github.com/TMStudios1/lorian-documentation/actions/workflows/ci.yml)
+
+[![pages-build-deployment](https://github.com/TMStudios1/lorian-documentation/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/TMStudios1/lorian-documentation/actions/workflows/pages/pages-build-deployment)
 
 ## Brief history
 
